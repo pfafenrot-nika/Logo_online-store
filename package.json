@@ -1,8 +1,8 @@
 {
-	"name": "fls_start_gulp",
+	"name": "Logo_online-store",
 	"version": "1.0.0",
-	"description": "Start template with Gulp",
-	"author": "FLS",
+	"description": "Online-store",
+	"author": "Veronika Pfafenrot",
 	"private": true,
 	"license": "GNU General Public License (GPL)",
 	"devDependencies": {
